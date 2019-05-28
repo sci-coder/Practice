@@ -4,3 +4,4 @@ this is my first file.
 I am 2nd semester student at Nagoya Unviersity
 I am learning GIT
 what to do no,, committing
+I like philosophy as it helps give meaning to my miserable existence :p
