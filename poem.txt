@@ -3,3 +3,4 @@ what is your name
 this is my first file.
 I am 2nd semester student at Nagoya Unviersity
 I am learning GIT
+what to do no,, committing
